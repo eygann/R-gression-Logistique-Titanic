@@ -227,3 +227,7 @@ plot(roc_curve, main = "ROC Curve for Titanic Survival Prediction", col = "blue"
 ```
 
 A high AUC score (typically > 0.75) indicates that the model has strong predictive power.
+
+## 6. Conclusion and Next Steps
+
+In this analysis, we successfully developed and validated a logistic regression model to predict passenger survival on the Titanic. The project demonstrated a complete and standard machine learning workflow, from initial data loading and cleaning to feature engineering, model training, and robust evaluation.
